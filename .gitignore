@@ -1,0 +1,5 @@
+# Android Studio files
+.idea/
+*.iml
+build/
+local.properties

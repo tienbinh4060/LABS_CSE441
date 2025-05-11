@@ -10,6 +10,8 @@
   2. Chọn **File > Open**, mở thư mục `Lab_01/SumTwoNumbers`.
   3. Nhấn **Sync Project with Gradle Files** và chạy trên thiết bị Android (đã kiểm tra trên Samsung J6, Android 8.0).
 - **Kết quả:** Nhập 2 số (ví dụ: 3 và 5), nhấn "Tổng", kết quả hiển thị là 8.
+- **Minh chứng:**  
+  ![Giao diện SumTwoNumbers](screenshots/sumtwonumbers-result.png)
 
 ## Lab 2
 - [Chưa hoàn thiện, sẽ cập nhật sau.]

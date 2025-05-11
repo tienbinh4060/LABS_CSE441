@@ -1,6 +1,6 @@
 # Hướng dẫn kiểm tra bài thực hành Android
 
-Đây là các bài thực hành Android của sinh viên.
+Đây là các bài thực hành Android của Nguyễn Tiến Bình
 
 ## Lab 1: SumTwoNumbers
 - **Chức năng:** Ứng dụng cho phép nhập 2 số, nhấn nút "Tổng" để hiển thị kết quả.

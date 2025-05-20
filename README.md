@@ -1,6 +1,6 @@
 # Hướng dẫn kiểm tra bài thực hành Android
 
-Đây là các bài thực hành Android của sinh viên **Trần Tiến Bình - CSE441 - Lớp XYZ**.
+Đây là các bài thực hành Android của sinh viên **Nguyễn Tiến Bình - 2251061726 - Lớp 64CNTT3**.
 
 ## Lab 1: SumTwoNumbers
 
@@ -11,6 +11,6 @@
   ![Giao diện Subactivity](screenshots/subactivity-result.png)
 
 ## Các Lab tiếp theo
-- SSẽ được cập nhật sau.
+- Sẽ được cập nhật sau.
 
 Vui lòng vào từng thư mục để xem chi tiết bài thực hành.

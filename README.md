@@ -8,7 +8,7 @@
 
 ## Lab 2: Demor_Cyclefile
  
-  ![Giao diện Subactivity](screenshots/lab2-subactivity-result.png)
+  ![Giao diện Subactivity](screenshots/subactivity-result.png)
 
 ## Các Lab tiếp theo
 - SSẽ được cập nhật sau.

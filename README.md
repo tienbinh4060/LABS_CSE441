@@ -10,7 +10,7 @@
  
   ![Giao diện Subactivity](screenshots/subactivity-result.png)
 
-## Lab 3
+## Lab 3: Project_cal
 
   ![Giao diện Project_cal](screenshots/project_cal-result.png)
 

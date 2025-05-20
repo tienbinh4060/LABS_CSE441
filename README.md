@@ -10,7 +10,11 @@
  
   ![Giao diện Subactivity](screenshots/subactivity-result.png)
 
+## Lab 3
+
+  ![Giao diện Project_cal](screenshots/project_cal-result.png)
+
 ## Các Lab tiếp theo
 - Sẽ được cập nhật sau.
 
-Vui lòng vào từng thư mục để xem chi tiết bài thực hành.
+Vui lòng vào từng thư mục để xem chi tiết bài thực hành.-[]

@@ -8,7 +8,7 @@
 
 ## Lab 2: Demor_Cyclefile
  
-
+ ![Giao diện Demor_Cyclefile](screenshots/subactivity-result.png)
 
 ## Lab 3: Project_cal
 

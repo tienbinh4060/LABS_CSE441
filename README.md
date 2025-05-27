@@ -13,10 +13,6 @@
 ## Lab 3: Project_cal
 
   ![Giao diện Project_cal](screenshots/project_cal-result.png)
-
-## Lab 4
-
-  ![Giao diện BodyMassIndex](screenshots/Body_Mass_Index.png)
   
 ## Các Lab tiếp theo
 - Sẽ được cập nhật sau.

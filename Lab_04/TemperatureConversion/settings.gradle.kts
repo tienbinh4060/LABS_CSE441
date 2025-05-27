@@ -19,6 +19,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "Lab04_2"
+rootProject.name = "TemperatureConversion"
 include(":app")
  

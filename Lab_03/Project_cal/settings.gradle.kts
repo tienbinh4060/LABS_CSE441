@@ -19,5 +19,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "Bai3"
+rootProject.name = "Project_cal"
 include(":app")

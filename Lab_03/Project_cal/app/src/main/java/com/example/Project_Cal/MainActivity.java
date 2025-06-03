@@ -1,10 +1,12 @@
-package com.example.bai3;
+package com.example.Project_Cal;
 
 import android.app.Activity;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
 import android.widget.EditText;
+
+import com.example.bai3.R;
 
 
 public class MainActivity extends Activity {

@@ -3,7 +3,7 @@ plugins {
 }
 
 android {
-    namespace = "com.example.bai3"
+    namespace = "com.example.Project_Cal"
     compileSdk = 35
 
     defaultConfig {

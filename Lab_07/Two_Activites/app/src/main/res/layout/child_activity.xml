@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center_horizontal"
+    android:padding="16dp"
+    android:background="#FFFF00">
+
+    <TextView
+        android:id="@+id/txtChild"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="This is Child Activity"
+        android:textColor="#00796B"
+        android:textStyle="bold"
+        android:textSize="20sp"
+        android:layout_marginBottom="24dp"/>
+
+    <Button
+        android:id="@+id/btnBackMain"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Back to Main Activity"
+        android:background="@android:drawable/btn_default" />
+
+</LinearLayout>

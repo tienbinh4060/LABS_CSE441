@@ -1,7 +1,40 @@
-# Android Studio files
+# Android Studio project files
 .idea/
-*.iml
+.gradle/
 build/
 local.properties
-DemoContentProvider/
-FireBaseTest/
+*.iml
+
+# Compiled output
+*.apk
+*.ap_
+*.aab
+
+# Keystore files
+*.jks
+*.keystore
+
+# External native build files
+.cxx/
+*.o
+*.so
+
+# Android Studio captures
+captures/
+
+# Folders added by Android Studio for build variants
+# For example, if you have flavor dimensions, this might be useful
+# app/build/generated/source/
+# app/build/intermediates/
+
+# User-specific files that Android Studio creates
+.DS_Store # macOS specific
+Thumb.db # Windows specific
+
+# Explicitly ignore files/folders that might be created inside your Lab projects
+# unless you intend to track them.
+# For example, if you have specific temporary files within Lab_01/SumTwoNumbers
+# or if DemoContentProvider and FireBaseTest are sub-modules that you DO want to track,
+# then remove them from this .gitignore.
+# Nếu bạn đã thêm DemoContentProvider/ và FireBaseTest/ vào đây vì bạn không muốn đẩy chúng lên Git,
+# hãy giữ lại. Nếu bạn muốn đẩy chúng lên, thì xóa chúng khỏi file .gitignore này.
